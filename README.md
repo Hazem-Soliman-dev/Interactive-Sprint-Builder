@@ -1,6 +1,6 @@
 <div align="center">
 
-# Animals & Algorithms: O'Reilly Interactive Sprint Builder 🐾
+# O'Reilly Interactive Sprint Builder 
 
 **Turn any technical topic, lecture, or syllabus into a self-contained, O'Reilly-styled Arabic interactive engineering handbook in a single HTML file.**
 
